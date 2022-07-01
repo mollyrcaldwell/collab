@@ -24,3 +24,8 @@ title: Collaborative Exercise in Github
 <img src="rnorm_5k.png", width=500 />
 </center>
 
+- Normalization using rnorm 10000 sampling
+
+<center>
+<img src="rnorm_10k.png", width=500 />
+</center>
